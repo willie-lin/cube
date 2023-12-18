@@ -17,7 +17,7 @@ require (
 	github.com/spf13/cobra v1.1.3
 	github.com/stacktitan/smb v0.0.0-20190531122847-da9a425dceb8
 	github.com/xuri/excelize/v2 v2.5.0
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
-	golang.org/x/text v0.3.6
+	golang.org/x/crypto v0.17.0
+	golang.org/x/text v0.14.0
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 )
